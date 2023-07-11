@@ -5,7 +5,7 @@ An interactive dashboard is built to explore the [Belly Button Biodiversity](htt
 
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
-JSON data is read in and visualized using the follwoing libraries:
+JSON data is read in and visualized using the following libraries:
 - D3
 - Plotly
 
