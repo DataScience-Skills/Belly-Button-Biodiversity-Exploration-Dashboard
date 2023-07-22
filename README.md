@@ -1,4 +1,5 @@
 # **Interactive Dashboard for Belly Button Biodiversity**
+## [Explore the dashboard here!](https://datascience-skills.github.io/Belly-Button-Biodiversity-Exploration-Dashboard/)
 
 ## **Description:**
 In this project challenge, an interactive dashboard is used to explore the Belly Button Biodiversity dataset, which contains information about the microbes that colonize human navels. The dataset reveals the presence of various microbial species, some of which are prevalent in more than 70% of individuals, while others are relatively rare.
