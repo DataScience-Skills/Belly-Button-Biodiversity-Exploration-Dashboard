@@ -23,7 +23,7 @@ This project utilizes the following tools and technologies:
 - Bootstrap: To enhance the responsiveness and appearance of the dashboard.
 - JavaScript: To handle interactivity and data manipulation.
 - D3.js: To read in the data and create interactive visualizations.
-- Plotly.js: For creating the bar chart, bubble chart, and optional gauge chart.
+- Plotly.js: For creating the bar chart, bubble chart, and gauge chart.
 
 ## **Adaptive Gauge Chart:**
 If you choose to take on the advanced challenge, you can adapt the Gauge Chart from Plotly.js to plot the weekly washing frequency of the individual. The gauge chart should account for values ranging from 0 through 9 and update whenever a new sample is selected.
