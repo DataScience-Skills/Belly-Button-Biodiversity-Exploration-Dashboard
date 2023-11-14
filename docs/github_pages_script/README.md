@@ -1,0 +1,2 @@
+# Necessity of app.js in /docs/
+- GitHub Pages site is being served from the /docs folder in the main branch. It cannot access the app.js in the /scripts/ directory through an absoluate or relative path as the docs/ directory is considered the root directory for the hosting of the GitHub Pages site.
